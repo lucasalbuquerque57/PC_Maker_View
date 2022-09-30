@@ -34,7 +34,7 @@ import ErrorPage from "../screens/ErrorPage";
 
 export const router = createBrowserRouter([
     {
-        path: "/",
+        path: "/PC_Maker",
         element: <Home />,
         errorElement: <ErrorPage />
     },
